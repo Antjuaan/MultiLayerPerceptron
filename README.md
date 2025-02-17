@@ -1,2 +1,2 @@
 # MultiLayerPerceptron
-Implementazione di un percettrone multistrato addestrato e testato sul dataset "iris".
+Implementazione di un percettrone multistrato addestrato e testato sul dataset Iris.
